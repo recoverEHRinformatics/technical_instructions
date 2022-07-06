@@ -1,5 +1,5 @@
 # Technical Instructions
-This repository contain several technical instructions participating sites could use for data preparation and submission. <br>
+This repository contains several technical instructions participating sites can use for data preparation and submission. <br>
 
 Please see below for the list of available technical instructions in RECOVER's Confluence space. If you cannot find the technical instruction of interest, please explore other repositories in [RECOVER's Github page](https://github.com/recoverEHRinformatics).
 
